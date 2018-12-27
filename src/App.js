@@ -1,26 +1,26 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 class App extends Component {
+  constructor(props){
+    super()
+    this.state={
+      ...props,
+      value1 : "",
+      value2 : "",
+      value3 : "",
+      value4 : ""
+    }
+  }
+  _onClicked=()=>{
+    alert(`이러면 form Tag 도 필요없겠군 ㅎㅎ \n input1 = ${this.state.value1} input2 = ${this.state.value2} input3 = ${this.state.value3} input4 = ${this.state.value4}` )
+  }
   render() {
     return (
       <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
+        <h1>KJW HOMEPAGE </h1>
       </div>
+
     );
   }
 }
