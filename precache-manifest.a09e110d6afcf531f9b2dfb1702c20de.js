@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/jwpp/static/js/runtime~main.3705a92f.js"
   },
   {
-    "revision": "c45167ec80743f803ddf",
-    "url": "/jwpp/static/js/main.c45167ec.chunk.js"
+    "revision": "34fc3909eef1d6888cac",
+    "url": "/jwpp/static/js/main.34fc3909.chunk.js"
   },
   {
     "revision": "f902cb97b0fb57add669",
     "url": "/jwpp/static/js/1.f902cb97.chunk.js"
   },
   {
-    "revision": "c45167ec80743f803ddf",
+    "revision": "34fc3909eef1d6888cac",
     "url": "/jwpp/static/css/main.b85ca34f.chunk.css"
   },
   {
-    "revision": "a46a5ef8dd7cd4a2378f877de84144b4",
+    "revision": "48589b64181e359f90783d4c6b4c760a",
     "url": "/jwpp/index.html"
   }
 ];
