@@ -1,14 +1,15 @@
 {
-  "main.css": "/jwpp/static/css/main.73fb620b.chunk.css",
-  "main.js": "/jwpp/static/js/main.1647406c.chunk.js",
-  "main.js.map": "/jwpp/static/js/main.1647406c.chunk.js.map",
-  "static/js/1.d953db88.chunk.js": "/jwpp/static/js/1.d953db88.chunk.js",
-  "static/js/1.d953db88.chunk.js.map": "/jwpp/static/js/1.d953db88.chunk.js.map",
+  "main.css": "/jwpp/static/css/main.8cbe6d12.chunk.css",
+  "main.js": "/jwpp/static/js/main.75775f12.chunk.js",
+  "main.js.map": "/jwpp/static/js/main.75775f12.chunk.js.map",
+  "static/js/1.1306b6de.chunk.js": "/jwpp/static/js/1.1306b6de.chunk.js",
+  "static/js/1.1306b6de.chunk.js.map": "/jwpp/static/js/1.1306b6de.chunk.js.map",
   "runtime~main.js": "/jwpp/static/js/runtime~main.3705a92f.js",
   "runtime~main.js.map": "/jwpp/static/js/runtime~main.3705a92f.js.map",
+  "static/css/main.8cbe6d12.chunk.css.map": "/jwpp/static/css/main.8cbe6d12.chunk.css.map",
   "static/media/logo_white.png": "/jwpp/static/media/logo_white.05bdb08b.png",
-  "static/css/main.73fb620b.chunk.css.map": "/jwpp/static/css/main.73fb620b.chunk.css.map",
+  "static/media/MyPic.png": "/jwpp/static/media/MyPic.eb6bafcd.png",
   "index.html": "/jwpp/index.html",
-  "precache-manifest.0371c959db11ed61efab7f3d6f2e3a07.js": "/jwpp/precache-manifest.0371c959db11ed61efab7f3d6f2e3a07.js",
+  "precache-manifest.3fc75e6e22e2a9e7f7fe4b598e7fb31f.js": "/jwpp/precache-manifest.3fc75e6e22e2a9e7f7fe4b598e7fb31f.js",
   "service-worker.js": "/jwpp/service-worker.js"
 }
